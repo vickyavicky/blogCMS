@@ -54,15 +54,6 @@
   <div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-between">
       <a class="p-2 text-muted" href="#">Home</a>
-      <a class="p-2 text-muted" href="#">PHP</a>
-      <a class="p-2 text-muted" href="#">Pearl</a>
-      <a class="p-2 text-muted" href="#">Java</a>
-      <a class="p-2 text-muted" href="#">CSS</a>
-      <a class="p-2 text-muted" href="#">Python</a>
-      <a class="p-2 text-muted" href="#">Bootstrap</a>
-      <a class="p-2 text-muted" href="#">Laravel</a>
-      <a class="p-2 text-muted" href="#">JavaScript</a>
-      <a class="p-2 text-muted" href="#">Angular</a>
-      <a class="p-2 text-muted" href="#">Vue JS</a>
+
     </nav>
   </div>
